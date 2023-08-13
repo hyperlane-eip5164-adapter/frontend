@@ -1,3 +1,4 @@
+//@ts-ignore
 import { Web3Storage } from "web3.storage";
 // const apiToken = process.env.REACT_APP_WEB3STORAGE_API_TOKEN;f
 
