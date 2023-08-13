@@ -1,9 +1,13 @@
-import React from 'react'
+import { Box, Heading } from "@chakra-ui/react";
 
 const Footer = () => {
-  return (
-    <div>Footer</div>
-  )
-}
+  return <Box as={'footer'} p={6}>
 
-export default Footer
+    <Heading as={'h4'} size={'lg'} color={'brand'}>Pontis</Heading>
+    <Box>
+      
+    </Box>
+  </Box>;
+};
+
+export default Footer;
